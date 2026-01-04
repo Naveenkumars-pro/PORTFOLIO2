@@ -1,0 +1,77 @@
+body
+{
+    clear: both;
+    background-color: rgb(27, 4, 4);
+    color: white;
+}
+h1{
+    color: aqua;
+}
+a{
+    color: white;
+}
+h1{
+    color: aqua;
+}
+
+ul li{
+    font-size: 20px;
+    font-style: bold ,serif;
+    margin-right: 50px;
+    float: right;
+    list-style-type: none;
+    display: inline;
+    
+}
+ul li:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+.contact {
+  max-width: 900px;
+  margin: 50px auto;
+  padding: 20px;
+}
+
+.contact-container {
+  display: flex;
+  gap: 40px;
+  margin-top: 20px;
+  float: left;
+}
+
+.contact-form input,
+.contact-form textarea {
+  width: 100%;
+   float: left;
+  padding: 10px;
+  margin-bottom: 15px;
+  border-radius: 60px;
+}
+input:hover{
+    background-color: rgb(114, 219, 219);
+    color: rgb(240, 20, 20);
+}
+
+
+.contact-form button {
+  padding: 10px 20px;
+  background: black;
+   float: left;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.contact-info p {
+  margin-bottom: 10px;
+   float: left;
+
+}
+.contact-info{
+   border-style:inset;
+   border-color: aqua;
+   float: right;
+
+   
+}

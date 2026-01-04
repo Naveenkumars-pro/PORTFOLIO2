@@ -1,0 +1,55 @@
+body
+{
+    background-color: rgb(27, 4, 4);
+    color: white;
+}
+h1{
+    color: aqua;
+}
+h1{
+    color: aqua;
+}
+a{
+    color: white;
+}
+
+ul li{
+    font-size: 20px;
+    font-style: bold ,serif;
+    margin-right: 50px;
+    float: right;
+    list-style-type: none;
+    display: inline;
+    
+}
+ul li:hover{
+    color: aqua;
+    text-decoration: underline;
+}
+p{
+    font-size: 25px;
+    text-align: left;
+    margin-right: 70vh;
+    margin-left: 20px;
+}
+div{
+    border: outset aqua 22px;
+    width: 25%;
+    height: 300px;
+    float: right;
+    background-color: white;
+    box-shadow: inset;
+    margin-right: 50px ;
+    text-align:center;
+    margin-top: 100px;
+    margin-right: 120px;
+}
+img{
+    width: 99%;
+    height: 300px;
+}
+ol{ 
+    font-size: 29px;
+    list-style-type :none;;
+
+}
